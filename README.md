@@ -32,12 +32,5 @@ This is an interactive tile-matching game built using Python's **Turtle Graphics
 - **Random Module**: To shuffle and assign numbers randomly to the tiles.
 - **Event Handling**: Captures user clicks and controls game flow using Turtle’s `onscreenclick()` function.
 
-## How to Run the Project
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/interactive-tile-game.git
-
-```
 
